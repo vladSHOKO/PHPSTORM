@@ -58,7 +58,7 @@ else {
 <head>
     <meta charset="UTF-8">
     <title><?= $title ?></title>
-    <link rel="stylesheet", href="HomeworkStyle.css", type="text/css"
+    <link rel="stylesheet" , href="HomeworkStyle.css" , type="text/css"
 </head>
 <body class="main">
 <h1 class="<?=$red?>"><?= $title ?></h1>
